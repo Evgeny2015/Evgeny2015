@@ -7,5 +7,5 @@
 <img align="left" alt="Visual Studio Code" width="30" src="/img/vsc.png" />
 <img align="left" alt="C#" width="30" src="/img/csharp.png" />
 <img align="left" alt="MSSQL" width="32" src="/img/sql-server.png" />
-<img align="left" alt="Angular" width="34" src="/img/angular.png" />
+<img align="left" alt="Angular" width="32" src="/img/angular.png" />
 <img align="left" alt="Bootstrap" width="32" src="/img/bootstrap.png" />
