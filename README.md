@@ -9,9 +9,6 @@
 <img align="left" alt="Visual Studio Code" width="28" src="/img/vsc.png" />
 <img align="left" alt="C#" width="28" src="/img/csharp.png" />
 <img align="left" alt="MSSQL" width="28" src="/img/sql-server.png" />
-<img align="left" alt="Angular" width="28" src="/img/angular.png" />
-<img align="left" alt="Javascript" width="28" src="/img/js.png" />
-<img align="left" alt="Bootstrap" width="28" src="/img/bootstrap.png" />
 <img align="left" alt="Html" width="28" src="/img/html.png" />
 <img align="left" alt="Css" width="28" src="/img/css.png" />
 
